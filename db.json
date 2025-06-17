@@ -1,11 +1,6 @@
 {
   "contacts": [
-    {
-      "id": 1,
-      "name": "John Doe",
-      "avatar": null,
-      "status": "Hey, j'utilise WhatsChat!"
-    },
+   
     {
       "name": "Abzo Dieng",
       "phone": "785474553",
